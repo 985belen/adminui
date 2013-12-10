@@ -30,7 +30,7 @@ app/styles/
 ntd-admin-ui.scss (必须)
 下载
 
-  git clone git@git.ec3s.com:wangxianpeng/admin-ui.git
+  git clone https://github.com/985belen/adminui.git
 
   npm install
 
